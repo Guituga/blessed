@@ -22,7 +22,7 @@ const LoginPage = () => {
     <div>
       <h2>Login</h2>
       <form className="login-form" onSubmit={handleSubmit}>
-        <label>Username</label>
+        <label>Username:</label>
         <input
           type="text"
           placeholder="Username"
